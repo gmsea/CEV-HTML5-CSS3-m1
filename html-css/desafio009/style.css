@@ -15,6 +15,9 @@ h1 {
     margin: auto;
     max-width: 500px;
 }
+.principal img {
+    border-radius: 15px;
+}
 
 .video-box {
     position: relative;
